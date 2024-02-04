@@ -2,3 +2,4 @@ add content
 commit 3
 not show
 amend
+amend test3
