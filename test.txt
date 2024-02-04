@@ -5,3 +5,6 @@ amend
 amend test3
 
 master
+
+hotfix
+
