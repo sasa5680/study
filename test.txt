@@ -17,3 +17,5 @@ push command
 remote commit
 remote
 remote
+local
+
